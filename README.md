@@ -1,5 +1,9 @@
 # Lojistik Yonetim Sistemi - Hibrit Graf + Hash Table
 
+> Veri Yapilari ve Algoritmalari odevi
+> Ogrenci: **Samet Muhammed Ali ŞAFAK** - **1250505013**
+> Universite: Kirklareli Universitesi - Yazilim Muhendisligi
+
 ## Konfigurasyon (Ogrenci numarasi: 1250505013)
 
 | Kural | Numaradaki Rakam | Sonuc |
